@@ -1,6 +1,6 @@
 # 📊 Crypto Rates Agent
 
-**Crypto Rates Agent** is an AI-powered agent that provides real-time cryptocurrency price updates such as BTCUSDT, ETHUSDT, and more. It is built using a conversational interface to help users quickly access live crypto rates on demand.
+This is an AI-powered agent that provides real-time cryptocurrency price updates such as BTCUSDT, ETHUSDT, and more. It is built using a conversational interface to help users quickly access live crypto rates on demand.
 
 ---
 
@@ -29,6 +29,14 @@ This project uses the **public Binance API** to retrieve crypto price data.
 - Ask for the latest price of BTC, ETH, or any trading pair
 - Quickly check market movements through simple queries
 - Use in educational, informational, or quick-check crypto tools
+
+💬 Example Prompts
+
+👉 "What's the price of BTCUSDT?"
+👉 "Tell me ETHUSDT rate?"
+👉 "Check DOGE to USDT"
+
+Agent will respond with the most recent price from Binance.
 
 ---
 

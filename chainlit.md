@@ -44,9 +44,8 @@ Agent will respond with the most recent price from Binance.
 
 **Fazilat Jahan**
 
-## 👤 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazilat-jahan-web-developer/)
-
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ItxFaziSays)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fazilat-jahan-web-developer)
+- ✖️ [X (Twitter)](https://x.com/ItxFaziSays)
 
 ---
+
